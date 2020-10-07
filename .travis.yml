@@ -13,4 +13,5 @@ deploy:
   region: us-east-1
   acl: public_read
   on:
+    branch: main
     repo: guillermoandrae/quite-black
