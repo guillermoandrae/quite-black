@@ -1,3 +1,3 @@
 # quite-black
 
-More to come.
+A Hacktoberfest project celebrating blackness.
