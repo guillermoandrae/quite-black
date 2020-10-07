@@ -1,0 +1,11 @@
+{
+  "name": "quite.black",
+  "version": "0.0.0",
+  "homepage": "https://quite.black",
+  "license": "MIT",
+  "description": "quite black",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillermoandrae/quite-black"
+  }
+}

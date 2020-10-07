@@ -1,0 +1,16 @@
+dist: xenial
+language: node_js
+cache:
+  directories:
+  - node_modules
+script:
+- npm install
+deploy:
+  provider: s3
+  bucket: quite.black
+  local_dir: dist
+  skip_cleanup: true
+  region: us-east-1
+  acl: public_read
+  on:
+    repo: guillermoandrae/quite-black
