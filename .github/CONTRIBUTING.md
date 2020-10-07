@@ -5,4 +5,4 @@ You can contribute to this project by [reporting issues](https://github.com/guil
 Submit via [GitHub Issues](https://github.com/guillermoandrae/quite-black/issues).
 
 ## Submitting Quotes
-Quotes from black leaders are welcome, so long as they adhere to this project's code of conduct and contain no profanity.
+Quotes from black leaders are welcome, so long as they adhere to this project's code of conduct and contain no profanity or otherwise vulgar language.
