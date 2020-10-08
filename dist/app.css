@@ -26,13 +26,13 @@ a {
     width: 50%;
 }
 
-blockquote {
+#quote {
     font-size: 4em;
-    text-align: left;
+    text-align: center;
     text-transform: uppercase;
 }
 
-blockquote em {
+#quote em {
     font-style: normal;
     color: red;
 }
@@ -48,4 +48,22 @@ blockquote em {
     display: block;
     font-size: 3em;
     font-variant: all-small-caps;
+}
+
+@media only screen and (max-width: 576px) {
+    #banner {
+        font-size: 1em;
+    }
+
+    #container {
+        width: 100%;
+    }
+
+    #quote {
+        font-size: 2.25em;
+    }
+
+    #author {
+        font-size: 2em;
+    }
 }
