@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap");
 
 body {
-    background: black;
-    color: white;
+    background: #000;
+    color: #fff;
     font-family: "Open Sans Condensed";
     margin: 0;
     padding: 0;
@@ -32,29 +32,16 @@ a {
     text-transform: uppercase;
 }
 
-#quote em {
-    font-style: normal;
-    color: red;
-}
-
-#byline {
-    display: block;
-    text-align: center;
-    width: 100%;
-}
-
 #author {
     color: #555;
     display: block;
     font-size: 3em;
     font-variant: all-small-caps;
+    text-align: center;
+    width: 100%;
 }
 
 @media only screen and (max-width: 576px) {
-    #banner {
-        font-size: 1em;
-    }
-
     #container {
         width: 100%;
     }
