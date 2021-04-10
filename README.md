@@ -1,5 +1,5 @@
 # quite.black
-[![Travis](https://img.shields.io/travis/guillermoandrae/quite-black.svg?style=flat-square)](https://travis-ci.org/guillermoandrae/quite-black)
+[![Build and Deploy](https://img.shields.io/github/workflow/status/guillermoandrae/quite-black/s3-deploy?style=flat-square)](https://github.com/guillermoandrae/quite-black/actions/workflows/deploy.yml)
 
 A Hacktoberfest project celebrating blackness.
 
