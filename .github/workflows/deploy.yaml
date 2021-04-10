@@ -1,4 +1,4 @@
-name: S3 Deploy
+name: s3-deploy
 on: [push]
 jobs:
   run:
