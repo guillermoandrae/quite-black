@@ -1,5 +1,5 @@
 # quite.black
-[![Build and Deploy](https://img.shields.io/github/workflow/status/guillermoandrae/quite-black/s3-deploy?style=flat-square)](https://github.com/guillermoandrae/quite-black/actions/workflows/deploy.yml)
+[![Build and Deploy](https://img.shields.io/github/workflow/status/guillermoandrae/quite-black/s3-deploy?style=flat-square)](https://github.com/guillermoandrae/quite-black/actions/workflows/deploy.yaml)
 
 A Hacktoberfest project celebrating blackness.
 
